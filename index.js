@@ -8,6 +8,10 @@
  As a result, the lessons for this function will pass *and* it will be available
  for you to use if you need it!
  */
+
+
+
+//  this will be the employees record use .call to attach it to that employee
 let createEmployeeRecord = function(employee) {
     // debugger to see what employee is in console 
     // console.log(employee) and run at bottom or screen 
